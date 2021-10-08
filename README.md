@@ -17,7 +17,6 @@
 - 📫 How to reach me **sujoy.chandradas@gmail.com**
 - ⚡ Fun fact **I think i'm funny. 🐸**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujoychandradas&show_icons=true&locale=en&layout=compact" alt="sujoychandradas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujoychandradas&show_icons=true&locale=en" alt="sujoychandradas" /></p>
 
