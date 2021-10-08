@@ -3,6 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sujoy</h1>
 <h3 align="center">I am a 2nd year student of Computer Science and Engineering (CSE) at Leading University. I like to explore new technologies and try to use them to solve real life problems.</h3>
 
+![Profile views](https://gpvc.arturio.dev/Sujoychandradas)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujoychandradas" alt="sujoychandradas" /></a> </p>
 
 ## 🙋‍♂️ About Me
 - 🔭 I like **Problem Solving and App Development (Web, Mobile).**
