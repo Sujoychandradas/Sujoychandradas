@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Sujoy</h1>
 
-<h3 align="center">I am a 3rd year student of Computer Science and Engineering (CSE) at Leading University. I like to explore new technologies and try to use them to solve real life problems.</h3>
+<h3 align="center">I am a 4th year student of Computer Science and Engineering (CSE) at Leading University. I like to explore new technologies and try to use them to solve real life problems.</h3>
 
 
 ## 🙋‍♂️ About Me
