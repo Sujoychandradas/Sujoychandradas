@@ -18,7 +18,6 @@
 - ⚡ Fun fact **I think i'm funny. 🐸**
 
 ##
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujoychandradas&show_icons=true&locale=en" alt="sujoychandradas" /></p>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sujoychandradas)  
 
